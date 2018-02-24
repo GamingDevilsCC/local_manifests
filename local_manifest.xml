@@ -8,7 +8,7 @@
 <project name="crdroid-devices/android_device_lge_g3ds" path="device/lge/g3ds" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_ls990" path="device/lge/ls990" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_vs985" path="device/lge/vs985" remote="github" revision="8.1" />
-<project name="GamingDevilsCC/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="8.1" />
+<project name="GamingDevilsCC/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="8.1-RR" />
 <project name="mountaser/Moun_Kernel_G3" path="kernel/lge/g3" remote="github" revision="Moun_Kernel_V4.0" />
 <project name="LineageOS/android_device_qcom_common" path="device/qcom/common" remote="github" revision="lineage-15.1" />
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
