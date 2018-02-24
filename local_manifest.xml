@@ -2,10 +2,9 @@
 <manifest>
   <!-- *********************** DEVICES & KERNELS *********************** -->
 <project name="crdroid-devices/android_device_lge_d850" path="device/lge/d850" remote="github" revision="8.1" />
-<project name="crdroid-devices/android_device_lge_d851" path="device/lge/d851" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_d852" path="device/lge/d852" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_f400" path="device/lge/f400" remote="github" revision="8.1" />
-<project name="crdroid-devices/android_device_lge_g3ds" path="device/lge/g3ds" remote="github" revision="8.1" />
+<project name="GamingDevilsCC/android_device_lge_g3ds" path="device/lge/g3ds" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_ls990" path="device/lge/ls990" remote="github" revision="8.1" />
 <project name="crdroid-devices/android_device_lge_vs985" path="device/lge/vs985" remote="github" revision="8.1" />
 <project name="GamingDevilsCC/android_device_lge_g3-common" path="device/lge/g3-common" remote="github" revision="8.1-RR" />
