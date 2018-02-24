@@ -13,5 +13,5 @@
 <project name="LineageOS/android_packages_resources_devicesettings" path="packages/resources/devicesettings" remote="github" revision="lineage-15.1" />
 <project path="packages/apps/Snap" name="LineageOS/android_packages_apps_Snap" remote="github" revision="lineage-15.1" />
   <!-- *********************** VENDOR BLOBS *********************** -->
-<project name="crdroid-devices/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="8.1" />
+<project name="GamingDevilsCC/proprietary_vendor_lge" path="vendor/lge" remote="github" revision="8.1" />
 </manifest>
